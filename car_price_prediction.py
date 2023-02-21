@@ -53,7 +53,7 @@ st.sidebar.title('Visualization Settings')
 
 # %%
 # Create a sidebar for choosing visualization options
-fig_type = st.sidebar.selectbox('Select a type of chart', ('Histogram', 'Boxplot', 'Scatterplot', 'Pairplot', 'Heatmap'))
+fig_type = st.sidebar.selectbox('Select a type of chart', ('Histogram', 'Boxplot', 'Scatterplot', 'Heatmap'))
 
 # %%
 if fig_type == 'Histogram':
