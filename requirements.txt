@@ -1,0 +1,8 @@
+# The following python libraries are to be installed
+streamlit
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
